@@ -1,0 +1,9 @@
+{
+        "advancements.husbandry.tactical_fishing.description": "Catch a Fish... without a Blue Fishing Rod!",
+        "advancements.husbandry.tactical_fishing.title": "Tactical Fishing",
+        "entity.minecraft.fishing_bobber": "Blue Fishing Bobber",
+        "item.minecraft.fishing_rod": "Blue Fishing Rod",
+        "subtitles.entity.fishing_bobber.retrieve": "Blue Bobber retrieved",
+        "subtitles.entity.fishing_bobber.splash": "Blue Fishing Bobber splashes",
+        "subtitles.entity.fishing_bobber.throw": "Blue Bobber thrown"
+}
